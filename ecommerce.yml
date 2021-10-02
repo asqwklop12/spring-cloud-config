@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: asqwklop12@google.com 
+  secret: value1
 
 
 gateway:
