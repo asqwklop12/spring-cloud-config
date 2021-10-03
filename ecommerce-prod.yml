@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: prod
+  secret: my_token_prod
 
 
 gateway:
